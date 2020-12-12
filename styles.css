@@ -75,7 +75,6 @@ button:hover {
 
 .game-pic-1 {
     padding: 30px 30px;
-    border-radius: 10px;
 }
 
 .img-1 {
@@ -84,7 +83,9 @@ button:hover {
     margin-right: auto;
     width: 95%;
     padding-top: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .img-2 {
@@ -92,8 +93,9 @@ button:hover {
     margin-left: auto;
     margin-right: auto;
     width: 95%;
-    padding-top: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .sec-3 {
