@@ -101,3 +101,17 @@ button:hover {
 .sec-3 {
     background-color: #2e2f33;
 }
+
+.sec-4 {
+    text-align: center;
+    background-color: darkgray;
+    padding: 100px 100px;
+}
+
+.sec-5 {
+    font-size: 1.1rem;
+    padding: 80px 30px;
+    line-height: 30px;
+    background-color: rgba(0, 136, 169, 0.7);
+    text-align: center;
+}
