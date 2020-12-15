@@ -21,8 +21,8 @@ header {
 
 .logo {
     cursor: pointer;
-    height: 75px;
-    width: 75px;
+    height: 80px;
+    width: 80px;
     border-radius: 10px;
 }
 
@@ -145,4 +145,15 @@ footer {
     background-color: #2e2f33;
     text-align: center;
     color: white;
+}
+
+form {
+    padding-top: 25px;
+    line-height: 40px;
+}
+
+input {
+    border-radius: 10px;
+    width: 250px;
+    height: 10%;
 }
