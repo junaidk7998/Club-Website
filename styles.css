@@ -115,3 +115,34 @@ button:hover {
     background-color: rgba(0, 136, 169, 0.7);
     text-align: center;
 }
+
+.img-3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.join {
+    
+}
+
+.meeting {
+    padding-top: 50px;
+}
+
+.join-fun {
+    padding-bottom: 30px;
+}
+
+footer {
+    font-size: 1.1rem;
+    padding: 30px 30px;
+    line-height: 30px;
+    background-color: #2e2f33;
+    text-align: center;
+    color: white;
+}
